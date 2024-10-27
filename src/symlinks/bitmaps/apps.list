@@ -53,6 +53,7 @@ accessories-text-editor.png kate.png
 accessories-text-editor.png kwrite.png
 accessories-text-editor.png medit.png
 accessories-text-editor.png org.gnome.gedit.png
+accessories-text-editor.png org.gnome.TextEditor.png
 accessories-text-editor.png Sci48M.png
 accessories-text-editor.png text-editor.png
 accessories-thesaurus.png kthesaurus.png
@@ -209,6 +210,7 @@ eufloria.png steam_icon_41210.png
 extensions.png 67EF_addoninstaller.0.png
 extensions.png cs-extensions.png
 extensions.png gnome-shell-extension-prefs.png
+extensions.png org.gnome.Extensions.png
 fbreader.png FBReader.png
 fez.png steam_icon_224760.png
 finalterm.png final-term.png
@@ -265,6 +267,7 @@ gnome-boxes.png boxes.png
 gnome-boxes.png org.gnome.boxes.png
 gnome-clocks.png org.gnome.clocks.png
 gnome-clocks.png org.gnome.Clocks.png
+gnome-console.png org.gnome.Console.png
 gnome-disks.png disks.png
 gnome-disks.png gnome-device-manager.png
 gnome-disks.png gsmartcontrol.png
@@ -327,6 +330,7 @@ hp-logo.png hplip.png
 iagno.png gnome-iagno.png
 ibus.png ibus-engine.png
 ibus.png ibus-setup.png
+inkscape.png org.inkscape.Inkscape.png
 intellij-idea.png idea.png
 intellij-idea.png intellij-idea-ce.png
 intellij-idea.png intellij-idea-ultimate-edition.png
@@ -482,12 +486,14 @@ multimedia-photo-viewer.png lximage.png
 multimedia-photo-viewer.png mirage.png
 multimedia-photo-viewer.png multimedia-photo-manager.png
 multimedia-photo-viewer.png org.gnome.eog.png
+multimedia-photo-viewer.png org.gnome.Loupe.png
 multimedia-photo-viewer.png ristretto.png
 multimedia-photo-viewer.png showfoto.png
 multimedia-photo-viewer.png showphoto.png
 multimedia-video-player.png audience.png
 multimedia-video-player.png bino.png
 multimedia-video-player.png dragonplayer.png
+multimedia-video-player.png org.gnome.Showtime.png
 multimedia-video-player.png org.gnome.Totem.png
 multisystem.png multisystem-liveusb.png
 musescore.png mscore.png
@@ -688,6 +694,7 @@ software-center.png softwarecenter.png
 software-properties.png cs-sources.png
 software-properties.png gpk-prefs.png
 sparkleshare.png folder-sparkleshare.png
+spotify.png com.spotify.Client.png
 steam.png 10B4_steam.0.png
 steam.png com.valvesoftware.Steam.png
 steam.png steam-launcher.png
@@ -723,6 +730,7 @@ system-help.png help-browser.png
 system-help.png help-contents.png
 system-help.png help.png
 system-help.png kchmviewer.png
+system-help.png org.gnome.Yelp.png
 system-lock-screen.png gnome-lockscreen.png
 system-lock-screen.png xfce-system-lock.png
 system-remixer.png remastersys-gtk.png
@@ -751,6 +759,7 @@ system-software-update.png software-update-urgent.png
 system-software-update.png update-manager.png
 system-software-update.png zen-icon.svg.png
 system76.png system76-driver.png
+tauon.png com.github.taiko2k.tauonmb.png
 team-fortress-2.png steam_icon_440.png
 teamspeak.png teamspeak3.png
 teamspeak.png ts3client_linux_amd64.png
@@ -775,6 +784,7 @@ ubuntu-sdk.png ubuntu-qtcreator.png
 ubuntuone.png ubuntuone-client.png
 ubuntuone.png ubuntuone-installer.png
 uget.png uget-icon.png
+ungoogled-chromium.png io.github.ungoogled_software.ungoogled_chromium.png
 usb-creator-gtk.png fedorausb.png
 usb-creator-gtk.png unetbootin.png
 usb-creator-gtk.png usb-creator-kde.png
